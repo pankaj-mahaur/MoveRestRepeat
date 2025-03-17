@@ -3,7 +3,8 @@ WordPress Development Project 🚀
 This is a WordPress site I created as part of my WordPress Development course on Internshala. The project helped me learn and apply various WordPress features, including themes, plugins, and customization techniques.  
 Certificate Of Completion- 
 
-[WordPress Training - Certificate of Completion.pdf](https://github.com/user-attachments/files/19286943/WordPress.Training.-.Certificate.of.Completion.pdf)
+![WordPress Training - Certificate of Completion-1](https://github.com/user-attachments/assets/f5098f1f-e980-42e1-a2bc-60d49b1bf578)
+
 
 
 🌟 Project Overview
