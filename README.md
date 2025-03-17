@@ -1,24 +1,28 @@
 WordPress Development Project 🚀 
 
-This is a **WordPress site** I created as part of my **WordPress Development course on Internshala**. The project helped me learn and apply various WordPress features, including themes, plugins, and customization techniques.  
+This is a WordPress site I created as part of my WordPress Development course on Internshala. The project helped me learn and apply various WordPress features, including themes, plugins, and customization techniques.  
+Certificate Of Completion- 
 
-🌟 Project Overview*
+[WordPress Training - Certificate of Completion.pdf](https://github.com/user-attachments/files/19286943/WordPress.Training.-.Certificate.of.Completion.pdf)
+
+
+🌟 Project Overview
 - Developed a fully functional WordPress website as part of my learning journey.  
 - Implemented modern design principles to enhance user experience.  
 - Explored and integrated useful WordPress plugins to add functionality.  
 
 🛠 Features Implemented 
-✅ **Custom WordPress Theme** – Applied a unique design and layout.  
-✅ **Plugins & Widgets** – Integrated essential plugins for enhanced functionality.  
-✅ **Responsive Design** – Ensured compatibility across devices.  
-✅ **SEO Optimization** – Followed best practices for better visibility.  
-✅ **Performance Optimization** – Improved speed using caching and image compression.  
+✅ Custom WordPress Theme – Applied a unique design and layout.  
+✅ Plugins & Widgets – Integrated essential plugins for enhanced functionality.  
+✅ Responsive Design – Ensured compatibility across devices.  
+✅ SEO Optimization – Followed best practices for better visibility.  
+✅ Performance Optimization – Improved speed using caching and image compression.  
 
 📂 Technologies Used
-- **WordPress**  
-- **Elementor / Custom Theme Development**  
-- **PHP, HTML, CSS, JavaScript**  
-- **MySQL Database**  
+- WordPress
+- Elementor / Custom Theme Development
+- PHP, HTML, CSS, JavaScript
+- MySQL Database
 
 📸 Screenshots
 ![Screenshot 2025-03-17 183112](https://github.com/user-attachments/assets/37734790-c312-48b8-9a39-fe52d37e84df)
