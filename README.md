@@ -52,6 +52,7 @@ This is a **WordPress site** I created as part of my **WordPress Development cou
 Feel free to fork this repo, submit issues, or contribute to improve this project!  
 
 📬 Connect With Me
+
 🔗 GitHub: [Your GitHub Profile](https://github.com/your-username)  
 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
 🔗 Portfolio: [Your Portfolio Website](https://yourwebsite.com)  
