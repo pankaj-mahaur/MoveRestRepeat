@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://pankaj-mahaur.github.io/MoveRestRepeat/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/post-sitemap.xml</loc>
+		<loc>https://pankaj-mahaur.github.io/MoveRestRepeat/post-sitemap.xml</loc>
 		<lastmod>2025-03-10T13:26:58+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
+		<loc>https://pankaj-mahaur.github.io/MoveRestRepeat/page-sitemap.xml</loc>
 		<lastmod>2025-03-13T20:48:00+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/category-sitemap.xml</loc>
+		<loc>https://pankaj-mahaur.github.io/MoveRestRepeat/category-sitemap.xml</loc>
 		<lastmod>2025-03-10T13:26:58+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/post_tag-sitemap.xml</loc>
+		<loc>https://pankaj-mahaur.github.io/MoveRestRepeat/post_tag-sitemap.xml</loc>
 		<lastmod>2025-03-10T13:26:58+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/author-sitemap.xml</loc>
+		<loc>https://pankaj-mahaur.github.io/MoveRestRepeat/author-sitemap.xml</loc>
 		<lastmod>2025-03-15T18:51:38+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

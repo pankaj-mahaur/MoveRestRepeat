@@ -1,8 +1,8 @@
 /* auxin-front */
 @font-face {
   font-family: "auxin-front";
-  src: url("/wp-content/themes/phlox/css/fonts/fontastic/auxicon/auxin-front.eot");
-  src: url("/wp-content/themes/phlox/css/fonts/fontastic/auxicon/auxin-front.eot#iefix") format("embedded-opentype"), url("/wp-content/themes/phlox/css/fonts/fontastic/auxicon/auxin-front.woff") format("woff"), url("/wp-content/themes/phlox/css/fonts/fontastic/auxicon/auxin-front.ttf") format("truetype"), url("/wp-content/themes/phlox/css/fonts/fontastic/auxicon/auxin-front.svg#auxin-front") format("svg");
+  src: url("https://pankaj-mahaur.github.io/MoveRestRepeat/wp-content/themes/phlox/css/fonts/fontastic/auxicon/auxin-front.eot");
+  src: url("https://pankaj-mahaur.github.io/MoveRestRepeat/wp-content/themes/phlox/css/fonts/fontastic/auxicon/auxin-front.eot#iefix") format("embedded-opentype"), url("https://pankaj-mahaur.github.io/MoveRestRepeat/wp-content/themes/phlox/css/fonts/fontastic/auxicon/auxin-front.woff") format("woff"), url("https://pankaj-mahaur.github.io/MoveRestRepeat/wp-content/themes/phlox/css/fonts/fontastic/auxicon/auxin-front.ttf") format("truetype"), url("https://pankaj-mahaur.github.io/MoveRestRepeat/wp-content/themes/phlox/css/fonts/fontastic/auxicon/auxin-front.svg#auxin-front") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -3858,8 +3858,8 @@
 
 @font-face {
   font-family: "auxin-front-2";
-  src: url("/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/auxin-front-2.eot");
-  src: url("/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/auxin-front-2.eot#iefix") format("embedded-opentype"), url("/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/auxin-front-2.woff") format("woff"), url("/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/auxin-front-2.ttf") format("truetype"), url("/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/auxin-front-2.svg#auxin-front-2") format("svg");
+  src: url("https://pankaj-mahaur.github.io/MoveRestRepeat/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/auxin-front-2.eot");
+  src: url("https://pankaj-mahaur.github.io/MoveRestRepeat/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/auxin-front-2.eot#iefix") format("embedded-opentype"), url("https://pankaj-mahaur.github.io/MoveRestRepeat/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/auxin-front-2.woff") format("woff"), url("https://pankaj-mahaur.github.io/MoveRestRepeat/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/auxin-front-2.ttf") format("truetype"), url("https://pankaj-mahaur.github.io/MoveRestRepeat/wp-content/themes/phlox/css/fonts/fontastic/auxicon2/auxin-front-2.svg#auxin-front-2") format("svg");
   font-weight: normal;
   font-style: normal;
 }
