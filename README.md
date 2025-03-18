@@ -4,6 +4,7 @@ This is a WordPress site I created as part of my WordPress Development course on
 Certificate Of Completion- 
 
 ![WordPress Training - Certificate of Completion-1](https://github.com/user-attachments/assets/f5098f1f-e980-42e1-a2bc-60d49b1bf578)
+![CAN_31606156_4055912-1](https://github.com/user-attachments/assets/df176dba-2862-4420-8544-4e859224a910)
 
 
 
