@@ -2,10 +2,14 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://pankaj-mahaur.github.io/MoveRestRepeat/</loc>
+		<lastmod>2025-03-13T20:48:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://pankaj-mahaur.github.io/MoveRestRepeat/wp-content/uploads/2025/03/Blog-Post-1-Featured-40x20.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
-		<loc>https://pankaj-mahaur.github.io/MoveRestRepeat/sample-page-2/</loc>
-		<lastmod>2025-03-09T11:41:20+00:00</lastmod>
+		<loc>https://pankaj-mahaur.github.io/MoveRestRepeat/post-page/</loc>
+		<lastmod>2025-03-13T19:53:20+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://pankaj-mahaur.github.io/MoveRestRepeat/about/</loc>
@@ -34,16 +38,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://pankaj-mahaur.github.io/MoveRestRepeat/blog/</loc>
-		<lastmod>2025-03-13T20:32:53+00:00</lastmod>
-		<image:image>
-			<image:loc>https://pankaj-mahaur.github.io/MoveRestRepeat/wp-content/uploads/2025/03/Blog-Post-1-Featured-270x151.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://pankaj-mahaur.github.io/MoveRestRepeat/wp-content/uploads/2025/03/Blog-Post-1-Featured-570x319.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://pankaj-mahaur.github.io/MoveRestRepeat/what-we-do/</loc>
 		<lastmod>2025-03-13T20:35:24+00:00</lastmod>
 		<image:image>
@@ -57,13 +51,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://pankaj-mahaur.github.io/MoveRestRepeat/wp-content/uploads/2025/03/What-We-Do-Section-3-2-40x40.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://pankaj-mahaur.github.io/MoveRestRepeat/home/</loc>
-		<lastmod>2025-03-13T20:48:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://pankaj-mahaur.github.io/MoveRestRepeat/wp-content/uploads/2025/03/Blog-Post-1-Featured-40x20.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
